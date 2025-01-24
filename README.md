@@ -3,6 +3,7 @@ This project version will be use to collect outdoor tempature and humidity. This
 
 
 **Parts used for this project**
+
     - Raspberry Pi Zero 2 W
     - AM2320 Digital Temperature and Humidity Sensor
     - 6V 2W Solar Panel - ETFE - Voltaic P126
