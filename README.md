@@ -1,5 +1,5 @@
 # weather-v1
-This project version will be use to collect outdoor tempature and humidity. This will be solar powered. Data will be sent to AWS Services.
+This project version will be use to collect outdoor Temperature, Pressure Kpa and humidity. This will be solar powered. Data will be sent to AWS Services.
 
 
 **Parts used for this project**
